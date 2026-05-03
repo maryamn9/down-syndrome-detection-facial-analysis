@@ -23,7 +23,7 @@ The framework demonstrates how AI can transform healthcare practice by bringing 
 ├── YOLO11_on_Partitioned_Face/     # YOLO11 object detection on partitioned facial regions
 ```
 
----
+
 
 ## Methods & Tools
 
