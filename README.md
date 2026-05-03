@@ -3,7 +3,6 @@
 
 This repository contains the full source code for my MSc thesis, which proposes a novel system for detecting Down Syndrome (DS) using machine learning and partitioned facial region analysis.
 
----
 
 ## Abstract
 
@@ -13,7 +12,7 @@ MediaPipe is used for facial segmentation, ResNet50 for feature extraction, and 
 
 The framework demonstrates how AI can transform healthcare practice by bringing interpretability, precision, and scalability to clinical procedures — particularly in limited-resource settings.
 
----
+
 
 ## Repository Structure
 
@@ -37,7 +36,7 @@ The framework demonstrates how AI can transform healthcare practice by bringing 
 | Language | Python |
 | Environment | Jupyter Notebook |
 
----
+
 
 ## Facial Regions Analysed
 
@@ -52,7 +51,7 @@ The face is divided into 7 partitioned regions for targeted analysis:
 
 Each region is analysed independently to identify region-specific diagnostic markers associated with Down Syndrome.
 
----
+
 
 ## Key Findings
 
@@ -60,7 +59,7 @@ Each region is analysed independently to identify region-specific diagnostic mar
 - YOLO11-based image detection offers automated, scalable detection with real-time performance
 - The combined framework provides a comprehensive and clinically applicable DS detection system
 
----
+
 
 ## Author
 
