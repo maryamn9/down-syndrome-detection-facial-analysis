@@ -56,7 +56,7 @@ Each region is analysed independently to identify region-specific diagnostic mar
 ## Key Findings
 
 - Feature-based methods (SVM, Random Forest) provide interpretable, region-specific diagnostic insights
-- YOLO11-based image detection offers automated, scalable detection with real-time performance
+- YOLO11-based image classification offers automated, scalable classification with real-time performance.
 - The combined framework provides a comprehensive and clinically applicable DS detection system
 
 
